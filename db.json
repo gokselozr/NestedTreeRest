@@ -8,7 +8,7 @@
         "id": "2",
         "icon": null,
         "text": "Item2",
-        "childrenKey": [{}],
+        "childrenKey": [],
         "selected": false,
         "disabled": false,
         "expand": false
@@ -17,7 +17,7 @@
         "id": "3",
         "icon": null,
         "text": "Item3",
-        "childrenKey": [{}],
+        "childrenKey": [],
         "selected": false,
         "disabled": false,
         "expand": false
@@ -38,7 +38,7 @@
           "id": "6",
           "icon": null,
           "text": "Item6",
-          "childrenKey": [{}],
+          "childrenKey": [],
           "selected": false,
           "disabled": false,
           "expand": false
@@ -55,7 +55,7 @@
       "id": "7",
       "icon": null,
       "text": "Item7",
-      "childrenKey": [{}],
+      "childrenKey": [],
       "selected": false,
       "disabled": false,
       "expand": false
